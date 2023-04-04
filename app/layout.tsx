@@ -1,5 +1,9 @@
-import './globals.css'
-
+//import './globals.css'
+export const metadata = {
+ 
+  title : 'Pricing UI by Farzaam',
+  description :'Sample Pricing UI for practice'
+}
 export default function RootLayout({
   children,
 }: {
